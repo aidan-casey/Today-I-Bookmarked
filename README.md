@@ -8,6 +8,7 @@
 * [Vi](#vi)
 * [Vim](#vim)
 * [VSS](#vss)
+* [Windows 10](#windows-10)
 
 ## Ransomware
 
@@ -38,6 +39,10 @@
 ## VSS
 
 * [ShadowExplorer](https://www.shadowexplorer.com)
+
+## Windows 10
+
+* [VDesk - Virtual Desktops from Command Line](https://github.com/eksime/VDesk)
 
 
 
