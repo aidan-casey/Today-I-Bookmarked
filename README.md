@@ -1,6 +1,10 @@
 # Today-I-Bookmarked
 
-[TOC]
+## Categories
+
+* [Ransomware](#ransomware)
+* [SQL](#sql)
+* [VSS](#vss)
 
 ## Ransomware
 
