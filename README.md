@@ -2,6 +2,7 @@
 
 ## Categories
 
+* [JavaScript](#javascript)
 * [Ransomware](#ransomware)
 * [Regex](#regex)
 * [SQL](#sql)
@@ -9,6 +10,10 @@
 * [Vim](#vim)
 * [VSS](#vss)
 * [Windows 10](#windows-10)
+
+## JavaScript
+
+* [Flipping - Animations](https://github.com/davidkpiano/flipping)
 
 ## Ransomware
 
