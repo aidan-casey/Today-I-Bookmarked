@@ -23,6 +23,7 @@
 
 * [BEE Free Email Editor](https://beefree.io/editor/)
 * [How to Code a Responsive HTML Email](https://www.youtube.com/watch?v=XnWIperMy08)
+* [Responsive Email 101: HTML + CSS Basics [Webinar]](https://www.youtube.com/watch?v=urgD_dwm-0E)
 * [Topol.io Email Editor](https://topol.io)
 
 ## Exchange
