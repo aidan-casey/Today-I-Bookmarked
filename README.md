@@ -2,7 +2,15 @@
 
 ## Categories
 
+* [Email](#email)
+* [Exchage](#exchange)
+* [Gadgets](#gadgets)
 * [JavaScript](#javascript)
+* [Linux](#linux)
+* [Patching](#patching)
+* [PowerShell](#powershell)
+* [PHP](#php)
+* [Python](#python)
 * [Ransomware](#ransomware)
 * [Regex](#regex)
 * [SQL](#sql)
@@ -11,9 +19,48 @@
 * [VSS](#vss)
 * [Windows 10](#windows-10)
 
+## Email
+
+* [BEE Free Email Editor](https://beefree.io/editor/)
+* [How to Code a Responsive HTML Email](https://www.youtube.com/watch?v=XnWIperMy08)
+* [Topol.io Email Editor](https://topol.io)
+
+## Exchange
+
+* [Permanently delete an Office 365 group](https://answers.microsoft.com/en-us/msoffice/forum/all/deleting-o365-group/2aec6a5e-35ce-4180-b44c-f85091150db1)
+
+## Gadgets
+
+* [5 DIY Electronics Projects You Need To See #2](https://www.youtube.com/watch?v=TNyWO7U2G8Q)
+
 ## JavaScript
 
 * [Flipping - Animations](https://github.com/davidkpiano/flipping)
+
+## Linux
+
+* [PCI Compliance Audit](https://linux-audit.com/linux-systems-guide-to-achieve-pci-dss-compliance-and-certification/)
+
+## Patching
+
+* [Patching Best Practices - Reddit](https://www.reddit.com/r/sysadmin/comments/7d9hgk/patching_best_practices/)
+* [Recommended Practices - Kaseya](https://helpdesk.kaseya.com/hc/en-gb/articles/229010568-What-are-the-recommended-practices-for-scheduling-Patch-Scans-and-Automatic-Updates-)
+
+## PowerShell
+
+* [Further Down the Rabbit Hole: PowerShell Modules and Encapsulation](https://www.red-gate.com/simple-talk/dotnet/.net-tools/further-down-the-rabbit-hole-powershell-modules-and-encapsulation/)
+* [Telnet with PowerShell](https://www.techtutsonline.com/powershell-alternative-telnet-command/)
+
+## PHP
+
+* [Dev Discussions - ActiveRecord, Data Mapper, Doctrine](https://www.youtube.com/watch?v=wFHQoseAq6g)
+
+## Python
+
+* [Anaconda](https://www.anaconda.com)
+* [LDAPDomainDump](https://github.com/dirkjanm/ldapdomaindump)
+* [Python-Ldap](https://www.python-ldap.org)
+* [WinPython](https://winpython.github.io)
 
 ## Ransomware
 
