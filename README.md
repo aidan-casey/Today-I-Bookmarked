@@ -7,6 +7,7 @@
 * [Gadgets](#gadgets)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [Music](#music)
 * [Patching](#patching)
 * [PowerShell](#powershell)
 * [PHP](#php)
@@ -41,6 +42,10 @@
 ## Linux
 
 * [PCI Compliance Audit](https://linux-audit.com/linux-systems-guide-to-achieve-pci-dss-compliance-and-certification/)
+
+## Music
+
+* [Relaxing JAZZ For WORK and STUDY](https://www.youtube.com/watch?v=PErqizZqLjI)
 
 ## Patching
 
