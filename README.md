@@ -7,6 +7,8 @@
 * [Gadgets](#gadgets)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [Malware](https://github.com/ytisf/theZoo)
+* [MsiExec.exe](#msiexec.exe)
 * [Music](#music)
 * [Patching](#patching)
 * [PowerShell](#powershell)
@@ -24,8 +26,10 @@
 
 * [BEE Free Email Editor](https://beefree.io/editor/)
 * [How to Code a Responsive HTML Email](https://www.youtube.com/watch?v=XnWIperMy08)
+* [New to email coding? Here's where to start.](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4)
 * [Responsive Email 101: HTML + CSS Basics [Webinar]](https://www.youtube.com/watch?v=urgD_dwm-0E)
 * [Topol.io Email Editor](https://topol.io)
+* [The Better Email](https://thebetter.email/design)
 
 ## Exchange
 
@@ -42,6 +46,10 @@
 ## Linux
 
 * [PCI Compliance Audit](https://linux-audit.com/linux-systems-guide-to-achieve-pci-dss-compliance-and-certification/)
+
+## MSIExec.exe
+
+* [AdvancedInstaller Guide](https://www.advancedinstaller.com/user-guide/msiexec.html)
 
 ## Music
 
