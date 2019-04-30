@@ -1,6 +1,6 @@
 # Today-I-Bookmarked
 
-## Categoriest
+## Categories
 
 * [Email](#email)
 * [Exchage](#exchange)
