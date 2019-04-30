@@ -21,6 +21,7 @@
 * [Vim](#vim)
 * [VSS](#vss)
 * [Windows 10](#windows-10)
+* [Windows Server](https://www.varonis.com/blog/ntfs-permissions-vs-share/)
 
 ## Email
 
@@ -110,5 +111,6 @@
 
 * [VDesk - Virtual Desktops from Command Line](https://github.com/eksime/VDesk)
 
+## Window Server
 
-
+* [NTFS Permissions vs. Share](https://www.varonis.com/blog/ntfs-permissions-vs-share/)
