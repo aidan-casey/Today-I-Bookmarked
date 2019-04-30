@@ -21,7 +21,7 @@
 * [Vim](#vim)
 * [VSS](#vss)
 * [Windows 10](#windows-10)
-* [Windows Server](https://www.varonis.com/blog/ntfs-permissions-vs-share/)
+* [Windows Server](#windows-server)
 
 ## Email
 
