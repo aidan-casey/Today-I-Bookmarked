@@ -111,6 +111,6 @@
 
 * [VDesk - Virtual Desktops from Command Line](https://github.com/eksime/VDesk)
 
-## Window Server
+## Windows Server
 
 * [NTFS Permissions vs. Share](https://www.varonis.com/blog/ntfs-permissions-vs-share/)
