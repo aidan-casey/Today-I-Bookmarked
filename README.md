@@ -7,7 +7,7 @@
 * [Gadgets](#gadgets)
 * [JavaScript](#javascript)
 * [Linux](#linux)
-* [Malware](https://github.com/ytisf/theZoo)
+* [Malware](#malware)
 * [MsiExec.exe](#msiexec.exe)
 * [Music](#music)
 * [Patching](#patching)
@@ -47,6 +47,10 @@
 ## Linux
 
 * [PCI Compliance Audit](https://linux-audit.com/linux-systems-guide-to-achieve-pci-dss-compliance-and-certification/)
+
+## Malware
+
+* [The Zoo, Malware Analysis](https://github.com/ytisf/theZoo)
 
 ## MSIExec.exe
 
