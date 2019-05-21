@@ -5,6 +5,7 @@
 * [Email](#email)
 * [Exchage](#exchange)
 * [Gadgets](#gadgets)
+* [Go](#go)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Malware](#malware)
@@ -39,6 +40,10 @@
 ## Gadgets
 
 * [5 DIY Electronics Projects You Need To See #2](https://www.youtube.com/watch?v=TNyWO7U2G8Q)
+
+## Go
+
+* [Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE)
 
 ## JavaScript
 
