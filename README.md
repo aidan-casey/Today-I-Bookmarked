@@ -44,6 +44,7 @@
 ## Go
 
 * [Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE)
+* [Writing a Go client for you RESTful API](https://medium.com/@marcus.olsson/writing-a-go-client-for-your-restful-api-c193a2f4998c)
 
 ## JavaScript
 
