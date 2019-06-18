@@ -20,6 +20,7 @@
 * [SQL](#sql)
 * [Vi](#vi)
 * [Vim](#vim)
+* [VMware](#vmware)
 * [VSS](#vss)
 * [Windows 10](#windows-10)
 * [Windows Server](#windows-server)
@@ -113,6 +114,10 @@
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
 * [What is the difference between Vi and Vim?](https://askubuntu.com/questions/418396/what-is-the-difference-between-vi-and-vim)
 
+## VMware
+
+* [How to Fix the Error "Hyper-V cannot be installed: A hypervisor is already running"](https://www.top-password.com/blog/how-to-fix-the-error-hyper-v-cannot-be-installed-a-hypervisor-is-already-running/)
+
 ## VSS
 
 * [ShadowExplorer](https://www.shadowexplorer.com)
@@ -123,4 +128,7 @@
 
 ## Windows Server
 
+* [A Geek's Guide to USMT 5.0](https://channel9.msdn.com/Events/MMS/2013/DC-B301)
+* [Automatic Download and Import of Updates into MDT](https://stealthpuppy.com/powershell-download-import-updates-mdt/)
 * [NTFS Permissions vs. Share](https://www.varonis.com/blog/ntfs-permissions-vs-share/)
+* [Resetting Administrator Password in Windows 2012](http://www.kieranlane.com/2013/09/18/resetting-administrator-password-windows-2012/)
