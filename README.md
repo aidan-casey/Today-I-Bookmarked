@@ -15,6 +15,7 @@
 * [PowerShell](#powershell)
 * [PHP](#php)
 * [Python](#python)
+* [QuickBooks](#quickbooks)
 * [Ransomware](#ransomware)
 * [Regex](#regex)
 * [SQL](#sql)
@@ -87,6 +88,10 @@
 * [LDAPDomainDump](https://github.com/dirkjanm/ldapdomaindump)
 * [Python-Ldap](https://www.python-ldap.org)
 * [WinPython](https://winpython.github.io)
+
+## QuickBooks
+
+* [QuickBooks MST for Silent Deployment](http://eddiejackson.net/wp/?p=4508)
 
 ## Ransomware
 
