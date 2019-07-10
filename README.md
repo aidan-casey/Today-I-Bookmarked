@@ -2,6 +2,8 @@
 
 ## Categories
 
+* [Business](#business)
+* [Education](#education)
 * [Email](#email)
 * [Exchage](#exchange)
 * [Gadgets](#gadgets)
@@ -25,6 +27,14 @@
 * [VSS](#vss)
 * [Windows 10](#windows-10)
 * [Windows Server](#windows-server)
+
+## Business
+
+* [Rise of the Rothschilds: The World's Richest Family](https://www.youtube.com/watch?v=6sM3KOYPL_A)
+
+## Education
+
+* [Elon Musk - College Degree](https://www.youtube.com/watch?v=CQbKctnnA-Y)
 
 ## Email
 
