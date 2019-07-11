@@ -6,6 +6,7 @@
 * [Education](#education)
 * [Email](#email)
 * [Exchage](#exchange)
+* [Finance](#finance)
 * [Gadgets](#gadgets)
 * [Go](#go)
 * [JavaScript](#javascript)
@@ -48,6 +49,10 @@
 ## Exchange
 
 * [Permanently delete an Office 365 group](https://answers.microsoft.com/en-us/msoffice/forum/all/deleting-o365-group/2aec6a5e-35ce-4180-b44c-f85091150db1)
+
+## Finance
+
+* [Bad Investing Habits you NEED to Break | Phil Town](https://www.youtube.com/watch?v=ygpFjuFgzXk)
 
 ## Gadgets
 
